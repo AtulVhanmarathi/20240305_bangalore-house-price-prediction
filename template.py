@@ -23,7 +23,8 @@ list_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/.gitkeep"
+    "research/.gitkeep",
+    "templates/index.html",
 
 ]
 

@@ -1,0 +1,49 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+notebook
+ipyfilechooser
+Kaleido # a cross-platform library for generating static images (e.g. png, svg, pdf, etc.)
+traitlets # Traitlets is a pure library that provides several powerful features for managing attributes of python objects
+six # a Python compatibility library that bridges the gap between Python 2 and Python 3
+tensorflow # a powerful ML framework that allows you to build and deploy machine learning models
+dvc # data version control system for ML and DL projects
+tqdm # a convenient way to create progress bars for your loops and iterative processes
+Flask # a lightweight WSGI web application framework for Python
+Flask-Cors # a Python package that simplifies handling Cross-Origin Resource Sharing (CORS) in your Flask applications
+scikit-learn # Scikit-learn is a powerful Python library for machine learning
+streamlit # to create interactive web apps for data science and machine learning projects
+ipykernel # a Python package that serves as the IPython kernel for Jupyter
+qgrid # Qgrid is a handy Jupyter notebook widget that enhances your experience with pandas DataFrames
+statsmodels # Statsmodels is a Python package that complements SciPy for statistical computations
+pysmb # It allows to access and transfer files to/from SMB/CIFS shared folders, similar to your Windows file sharing
+urllib3 # a powerful and user-friendly HTTP client library
+smt # Surrogate Modeling Toolbox (SMT) offers a comprehensive collection of surrogate modeling methods, sampling techniques, and benchmarking functions 
+pydantic # a Python package that simplifies data validation and manipulation
+awscli # The AWS Command Line Interface (CLI) provides a unified interface for interacting with AWS services
+blackcellmagic # an IPython magic command that allows you to format Python code within a cell using the black code formatter
+colorama # a simple cross-platform API for printing colored terminal text from Python
+cobra # COBRApy is a package for constraint-based modeling of biological networks written in Python
+python-pptx # a Python library that allows you to create, read, and update PowerPoint (.pptx) files
+periodictable # a periodic table of the elements with support for mass, density and xray/neutron scattering information
+uncertainties # a free, cross-platform program that transparently handles calculations with numbers with uncertainties
+openpyxl # a widely used Python package for reading and writing Excel files
+networkx # a powerful Python package for creating, manipulating, and studying graphs and networks
+pyarrow # a Python library that provides an API for functionality offered by the Arrow C++ libraries
+python_core_utils # package provides general utilities built on top of Python standard libraries
+papermill # a powerful Python package that allows you to parameterize, execute, and analyze Jupyter Notebooks
+nbconvert # a versatile tool that allows you to convert Jupyter Notebooks (.ipynb files) to various other formats
+nbformat # package is essential for working with Jupyter Notebooks
+ipywidgets # a Python package that provides Jupyter Widgets for the IPython kernel
+pyyaml # to load, read, and write yaml files
+mdutils # a handy tool for creating Markdown files while executing Python code
+deepchecks # Validates machine learning models and data with minimal effort
+soda-sql # Executes SQL queries based on defined input to run tests on different datasets in various data sources (e.g., Snowflake, PostgreSQL)
+great_expectations # data quality checks and assessments: Built from Expectation constructs (data assertions)
+pandas_profiling # data quality checks and assessments: Generates a profiling report from Pandas DataFrames
+
+-e .
+
+
