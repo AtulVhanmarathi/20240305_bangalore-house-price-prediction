@@ -49,3 +49,5 @@ soda-sql # Executes SQL queries based on defined input to run tests on different
 great_expectations # data quality checks and assessments: Built from Expectation constructs (data assertions)
 pandas_profiling # data quality checks and assessments: Generates a profiling report from Pandas DataFrames
 -e .
+
+
