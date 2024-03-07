@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/atulv/OneDrive/Desktop/20240229_Data_science_projects/20240307_ML-project2/MLP2\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

@@ -27,7 +27,6 @@ pysmb # It allows to access and transfer files to/from SMB/CIFS shared folders, 
 urllib3 # a powerful and user-friendly HTTP client library
 smt # Surrogate Modeling Toolbox (SMT) offers a comprehensive collection of surrogate modeling methods, sampling techniques, and benchmarking functions 
 pydantic # a Python package that simplifies data validation and manipulation
-awscli # The AWS Command Line Interface (CLI) provides a unified interface for interacting with AWS services
 blackcellmagic # an IPython magic command that allows you to format Python code within a cell using the black code formatter
 colorama # a simple cross-platform API for printing colored terminal text from Python
 cobra # COBRApy is a package for constraint-based modeling of biological networks written in Python
@@ -37,7 +36,6 @@ uncertainties # a free, cross-platform program that transparently handles calcul
 openpyxl # a widely used Python package for reading and writing Excel files
 networkx # a powerful Python package for creating, manipulating, and studying graphs and networks
 pyarrow # a Python library that provides an API for functionality offered by the Arrow C++ libraries
-python_core_utils # package provides general utilities built on top of Python standard libraries
 papermill # a powerful Python package that allows you to parameterize, execute, and analyze Jupyter Notebooks
 nbconvert # a versatile tool that allows you to convert Jupyter Notebooks (.ipynb files) to various other formats
 nbformat # package is essential for working with Jupyter Notebooks
@@ -45,7 +43,6 @@ ipywidgets # a Python package that provides Jupyter Widgets for the IPython kern
 pyyaml # to load, read, and write yaml files
 mdutils # a handy tool for creating Markdown files while executing Python code
 deepchecks # Validates machine learning models and data with minimal effort
-soda-sql # Executes SQL queries based on defined input to run tests on different datasets in various data sources (e.g., Snowflake, PostgreSQL)
 great_expectations # data quality checks and assessments: Built from Expectation constructs (data assertions)
 pandas_profiling # data quality checks and assessments: Generates a profiling report from Pandas DataFrames
 -e .
